@@ -1,0 +1,1 @@
+/home/berkay/Documents/projects/qemu-riscv-rust/target/riscv64gc-unknown-none-elf/debug/libqrr.a: /home/berkay/Documents/projects/qemu-riscv-rust/src/lib.rs /home/berkay/Documents/projects/qemu-riscv-rust/src/uart.rs
